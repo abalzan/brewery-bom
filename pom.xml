@@ -11,7 +11,7 @@
 
     <groupId>io.github.abalzan</groupId>
     <artifactId>brewery-bom</artifactId>
-    <version>1.0.3-SNAPSHOT</version>
+    <version>1.0.3</version>
 
     <packaging>pom</packaging>
 
@@ -546,7 +546,7 @@
         <connection>scm:git:git://github.com/abalzan/brewery-bom.git</connection>
         <developerConnection>scm:git:git@github.com:abalzan/brewery-bom.git</developerConnection>
         <url>https://github.com/abalzan/brewery-bom</url>
-        <tag>HEAD</tag>
+        <tag>brewery-bom-1.0.3</tag>
     </scm>
 
 </project>
